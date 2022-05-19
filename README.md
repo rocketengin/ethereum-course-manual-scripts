@@ -2,7 +2,7 @@
 
 Use this repository to follow along in Day 3 of the [14 Day Blockchain Developer](http://courses.rocketengin.com) course. It isn't of much use on its own, and is intended to be the foundation for getting started on the Service Marketplace decentralized app that is built through the course.
 
-You have multiple options for pulling down this code base, Download or Clone, please choose what your more confortable.
+You have multiple options for pulling down this code base, Download, or Clone.
 
 ## Option: Download
 
@@ -11,15 +11,15 @@ The following instructions are outlined in the course
 1. Select "Code" button from the top
 2. Select "Download ZIP
 3. Extract contents to a storage location on your computer
-4. Open up the root directory from with your IDE
+4. Open up the root directory with your IDE
 
 ## Option: Clone
 
 The following requires that the version control software GIT is installed. For instructions click [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-1. Using a computer terminal, navigate to a desired location on your computer
+1. Using a computer terminal, navigate to the desired location on your computer
 2. Using GIT, run git clone https://github.com/rocketengin/blockchain-dev-course-hardhat.git
-3. Open up the root directory from with your IDE
+3. Open up the root directory with your IDE
 
 ## Available Scripts
 
