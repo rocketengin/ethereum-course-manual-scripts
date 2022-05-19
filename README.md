@@ -1,6 +1,6 @@
 # Welcome to the Starter Kit for 14 Day Blockchain Developer
 
-Use this repository to follow along in Day 3 of the [14 Day Blockchain Developer](http://courses.rocketengin.com) course. It isn't of much use on its own, and is intended to be the foundation for getting started on the Service Marketplace decentralized app that is built through the course.
+Use this repository to follow along in Day 4 of the [14 Day Blockchain Developer](http://courses.rocketengin.com) course. It isn't of much use on its own, and is intended to be the foundation for getting started on the Service Marketplace decentralized app that is built through the course.
 
 You have multiple options for pulling down this code base, Download, or Clone.
 
